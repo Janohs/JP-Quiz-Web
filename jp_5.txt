@@ -1,0 +1,73 @@
+レモン Lemon
+ナイフ Knife
+レストラン Restaurant
+ホテル Hotel
+フランス France
+テニス Tennis
+テキスト Text
+カメラ Camera
+アメリカ America
+タイ Thailand
+テスト Test
+トイレ Toilet
+ネクタイ Necktie
+アフリカ Africa
+イタリア Italy
+
+ダンス Dance
+イギリス England
+バス Bus
+ピンポン Ping Pong
+バナナ Banana
+プレゼント Present
+インドネシア Indonesia
+テレビ Television
+バドミントン Badminton
+ドア Door
+ガラス Glass
+アジア Asia
+ラジオ Radio
+ピアノ Piano
+パン Bread
+
+ギター Guitar
+ビール Beer
+タクシー Taxi
+スプーン Spoon
+コンピューター Computer
+テーブル Table
+ボールペン Ballpoint pen
+マレーシア Malaysia
+チョコレート Chocolate
+ケータイ Mobile phone
+コーヒー Coffee
+レポート Report
+ノート Notebook
+デパート Department store
+アイスクリーム Ice cream
+
+サッカー Soccer
+ファックス Fax
+クッキー Cookie
+オリンピック Olympics
+スリッパ Slippers
+ベッド Bed
+コップ Cup
+サンドイッチ Sandwich
+バスケット Basket
+パイナップル Pineapple
+ヨーロッパ Europe
+スーパーマーケット Supermarket
+
+シャツ Shirt
+ジョギング Jogging
+ジャム Jam
+フォーク Fork
+キャベツ Cabbage
+パジャマ Pyjamas
+フィルム Film
+ジュース Juice
+キャンプ Camp
+ファイル File
+フィリピン Philippines
+パーティー Party
