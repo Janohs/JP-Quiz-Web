@@ -125,6 +125,7 @@
               wrongAnswers.push(words[i]);
             }
             answerOutput.style.display = "block"; // Show the correct answer
+            showNextQuestion(i + 1);
           };
 
           answerInput.addEventListener("keypress", function(event) {
@@ -170,6 +171,14 @@
     // Function to return question direction text
     function questionDirection(direction) {
       return direction === "englishToJapanese" ? "Japanese Word" : "English translation";
+    }
+
+    function showNextQuestion(index) {
+      const quizOutput = document.getElementById("quizOutput");
+      const inputs = quizOutput.getElementsByTagName("input");
+      if (index < inputs.length) {
+        inputs[index].focus();
+      }
     }
   </script>
 </body>
